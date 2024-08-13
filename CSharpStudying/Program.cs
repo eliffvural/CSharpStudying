@@ -30,6 +30,16 @@ namespace CSharpStudying
                 Console.WriteLine("Degismedi butonu");
             }
 
+            if (sistemeGirisYapmisMi == true)
+            {
+                Console.WriteLine("Kullanici ayarlari butonu");
+            }
+
+            else
+            {
+                Console.WriteLine("Giris yap butonu");
+            }
+
 
             Console.WriteLine(kategoriEtiketi);
 
