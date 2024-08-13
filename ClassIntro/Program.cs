@@ -29,6 +29,13 @@ namespace ClassIntro
 
             Console.WriteLine("hello class");
 
+            Course[] courses = new Course[] { course1, course2, course3};
+
+            foreach (var course in courses)
+            {
+                Console.WriteLine(course.CourseName + "eğitimi: " + course.Teacher);
+            }
+
         }
     }
 
