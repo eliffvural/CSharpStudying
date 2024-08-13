@@ -25,7 +25,7 @@ namespace ClassIntro
             course3.Teacher = "Hijjj Taş";
             course3.Watching = 236500;
 
-            Console.WriteLine(course1.CourseName+ "eğitimi"+ );
+            Console.WriteLine(course1.CourseName+ "eğitimi: " + course1.Teacher );
 
             Console.WriteLine("hello class");
 
