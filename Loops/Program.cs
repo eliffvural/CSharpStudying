@@ -17,12 +17,20 @@ namespace CSharpStudying
             Console.WriteLine(course2); 
             Console.WriteLine( course3);
 
-            string[] courses= new String[] { "course1", "course2", "course3" };
+            string[] courses= new String[] { "course1", "course2", "course3", "extra course" };
+            Console.WriteLine(courses[3]);
 
-            for (int i = 1; i < 10; i++)
+            for (int i = 1; i < 3; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(courses[i]);
             }
+
+            foreach (string course in courses)
+            {
+                Console.WriteLine(course);
+            }
+
+            Console.WriteLine("FOOTER");
 
         }
 
