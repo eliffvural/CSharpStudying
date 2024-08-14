@@ -8,5 +8,7 @@ namespace Methods
 {
     internal class Product
     {
+        public int Id { get; set; }
+
     }
 }
