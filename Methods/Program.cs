@@ -7,6 +7,11 @@ namespace Methods
         static void Main(string[] args)
         {
             Console.WriteLine("hello methods");
+
+            string productName = "laptop";
+            double price = 50000;
+            string 
+
         }
     }
 }
