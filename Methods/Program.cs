@@ -42,6 +42,8 @@ namespace Methods
 
             }
 
+            Console.WriteLine("-------------Methods------------");
+
 
         }
     }
