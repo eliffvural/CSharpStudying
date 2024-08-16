@@ -46,6 +46,14 @@ namespace Methods
 
             //instance- classes
             BagManager bagManager = new BagManager();
+            bagManager.Add();
+            bagManager.Add();
+            bagManager.Add();
+            bagManager.Add();
+            bagManager.Add();
+
+
+
 
 
         }
