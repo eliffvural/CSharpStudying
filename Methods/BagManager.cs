@@ -8,5 +8,12 @@ namespace Methods
 {
     internal class BagManager
     {
+
+        public void Add() //parantez varsa method çalisiyor demektir.
+        {
+
+        }
+
+
     }
 }
