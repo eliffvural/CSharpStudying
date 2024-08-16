@@ -44,6 +44,9 @@ namespace Methods
 
             Console.WriteLine("-------------Methods------------");
 
+            //instance- classes
+            BagManager bagManager = new BagManager();
+
 
         }
     }
