@@ -16,6 +16,16 @@ namespace Methods
 
             Product product1 = new Product();
 
+            product1.ProductName = "apple";
+            product1.Id = 1;
+            product1.Description = "apple apple apple";
+            product1.Price = 50;
+
+            //lets create string;
+
+            Product[] products = new Product[1];
+
+
         }
     }
 }
