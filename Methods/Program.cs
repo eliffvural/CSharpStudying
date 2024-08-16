@@ -21,7 +21,7 @@ namespace Methods
             product1.Description = "apple apple apple";
             product1.Price = 50;
 
-            //lets create string;
+            //lets create array;
 
             Product[] products = new Product[1];
 
