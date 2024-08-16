@@ -15,5 +15,12 @@ namespace Methods
         }
 
 
+        public void Add2(Product product) 
+        { 
+        
+        
+        }
+
+
     }
 }
