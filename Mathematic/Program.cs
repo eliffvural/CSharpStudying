@@ -9,6 +9,7 @@ namespace Mathematic
             Console.WriteLine("hello mathematic");
 
             DortIslem dortIslem = new DortIslem();
+            dortIslem.Topla(21, 19);
         }
     }
 }
