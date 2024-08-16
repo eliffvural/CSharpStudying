@@ -12,6 +12,7 @@ namespace Mathematic
         public void Topla(int number1, int number2) 
         {
                int toplam= number1 + number2;
+               Console.WriteLine(toplam);
         
         }
     }
