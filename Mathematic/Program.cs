@@ -7,6 +7,8 @@ namespace Mathematic
         static void Main(string[] args)
         {
             Console.WriteLine("hello mathematic");
+
+            DortIslem dortIslem = new DortIslem();
         }
     }
 }
