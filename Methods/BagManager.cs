@@ -11,7 +11,7 @@ namespace Methods
 
         public void Add() //parantez varsa method çalisiyor demektir.
         {
-            Console.WriteLine("added to bag");
+            Console.WriteLine("congrulations!! added to bag");
         }
 
 
