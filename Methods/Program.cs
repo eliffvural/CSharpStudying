@@ -29,7 +29,10 @@ namespace Methods
 
             foreach (Product product in products)
             {
-                
+                Console.WriteLine(product.ProductName);
+                Console.WriteLine(product.Price);
+                Console.WriteLine(product.Description);
+
             }
 
 
