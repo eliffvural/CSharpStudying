@@ -15,9 +15,9 @@ namespace Methods
         }
 
 
-        public void Add2(Product product) 
+        public void Add2(string productName, string description, double price) 
         { 
-        
+            
         
         }
 
