@@ -9,7 +9,7 @@ namespace Methods
     internal class BagManager
     {
 
-        public void Add() //parantez varsa method çalisiyor demektir.
+        public void Add(Product product) //parantez varsa method çalisiyor demektir.
         {
             Console.WriteLine("congrulations!! added to bag");
         }
