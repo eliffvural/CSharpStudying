@@ -25,6 +25,13 @@ namespace Methods
 
             Product[] products = new Product[] { product1};
 
+            //foreach
+
+            foreach (Product product in products)
+            {
+                
+            }
+
 
         }
     }
