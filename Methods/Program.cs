@@ -23,7 +23,7 @@ namespace Methods
 
             //lets create array;
 
-            Product[] products = new Product[1];
+            Product[] products = new Product[] { product1};
 
 
         }
