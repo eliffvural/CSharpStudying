@@ -16,8 +16,8 @@ namespace Methods
 
 
         public void Add2(string productName, string description, double price) 
-        { 
-            
+        {
+            Console.WriteLine("Congrulations!! Added to bag: " + productName);
         
         }
 
