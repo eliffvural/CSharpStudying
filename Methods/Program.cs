@@ -32,6 +32,7 @@ namespace Methods
                 Console.WriteLine(product.ProductName);
                 Console.WriteLine(product.Price);
                 Console.WriteLine(product.Description);
+                Console.WriteLine("---------------");
 
             }
 
