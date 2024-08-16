@@ -8,5 +8,11 @@ namespace Mathematic
 {
     internal class DortIslem
     {
+
+        public void Topla(int number1, int number2) 
+        {
+               
+        
+        }
     }
 }
