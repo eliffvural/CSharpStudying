@@ -7,7 +7,9 @@ namespace OOP1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("hello oop1!");
+            //Console.WriteLine("hello oop1!");
+
+            Product product1 = new Product();
 
         }
     }
