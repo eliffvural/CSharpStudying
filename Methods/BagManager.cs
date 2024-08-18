@@ -15,7 +15,7 @@ namespace Methods
         }
 
 
-        public void Add2(string productName, string description, double price) 
+        public void Add2(string productName, string description, double price, int stock) 
         {
             Console.WriteLine("Congrulations!! Added to bag: " + productName);
         
