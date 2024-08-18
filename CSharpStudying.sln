@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematic", "Mathematic\Mathematic.csproj", "{DF16F63A-7B25-48F5-9C83-109949D26E8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferencesType", "ValueAndReferencesType\ValueAndReferencesType.csproj", "{EC13DBAC-541A-4E54-A4FB-6BAC1913F4AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DF16F63A-7B25-48F5-9C83-109949D26E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF16F63A-7B25-48F5-9C83-109949D26E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF16F63A-7B25-48F5-9C83-109949D26E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC13DBAC-541A-4E54-A4FB-6BAC1913F4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC13DBAC-541A-4E54-A4FB-6BAC1913F4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC13DBAC-541A-4E54-A4FB-6BAC1913F4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC13DBAC-541A-4E54-A4FB-6BAC1913F4AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
