@@ -11,6 +11,8 @@ namespace ValueAndReferencesType
             int number1 = 19;
             int number2 = 21;
             number1 = number2;
+            number2 = 65;
+
 
         }
 
