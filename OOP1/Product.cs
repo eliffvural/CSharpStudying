@@ -13,6 +13,7 @@ namespace OOP1
         public string ProductName { get; set; }
         public double UnitPrice { get; set; }
         public int CategoryId { get; set; }
+        public string UnitsInStock { get; set; }
 
     }
 }
