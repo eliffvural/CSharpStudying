@@ -18,6 +18,9 @@ namespace OOP1
 
             Product product2 = new Product { Id=2, CategoryId=2, ProductName="television", UnitPrice=60000, UnitsInStock=4};
 
+            ProductManager productManager = new ProductManager();
+
+            productManager.Add();
 
 
 
