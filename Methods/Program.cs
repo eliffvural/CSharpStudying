@@ -49,7 +49,7 @@ namespace Methods
            bagManager.Add(product1);
             bagManager.Add(product2);
 
-            bagManager.Add2("karpuz", "diyarbakir karpuzu", 120);
+            bagManager.Add2("karpuz", "diyarbakir karpuzu", 120,8);
 
 
 
