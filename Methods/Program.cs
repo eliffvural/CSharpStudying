@@ -45,6 +45,8 @@ namespace Methods
             Console.WriteLine("-------------Methods------------");
 
             //instance- classes
+            //this is encapsulation
+
             BagManager bagManager = new BagManager();
            bagManager.Add(product1);
             bagManager.Add(product2);
