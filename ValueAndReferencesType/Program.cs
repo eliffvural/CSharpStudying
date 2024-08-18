@@ -16,6 +16,9 @@ namespace ValueAndReferencesType
 
             int[] numbers= new int[] {19, 21, 03};
             int[] numbers2 = new int[] { 190, 210, 300 };
+            numbers = numbers2;
+            numbers2[0] = 1000;
+             
 
 
         }
