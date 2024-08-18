@@ -8,7 +8,7 @@ namespace OOP1
 {
     internal class ProductManager
     {
-        public void Add()
+        public void Add(string name)
         {
 
         }
