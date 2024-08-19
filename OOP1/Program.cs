@@ -22,6 +22,12 @@ namespace OOP1
 
             productManager.Add(product1);
 
+            int sayi = 100;
+            productManager.BiseyYap(sayi);
+
+            Console.WriteLine(sayi);
+
+            //int, double, bool ... deger tip
 
 
         }
