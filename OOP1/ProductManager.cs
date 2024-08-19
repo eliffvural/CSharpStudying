@@ -22,6 +22,13 @@ namespace OOP1
 
         }
 
+        public int topla(int sayi1, int sayi2)
+        {
+            return sayi1+ sayi2;
+        }
+
+
+
         /*public void BiseyYap(int sayi)
         {
             sayi = 99;
