@@ -22,10 +22,15 @@ namespace OOP1
 
         }
 
-        public int topla(int sayi1, int sayi2)
+       /* public int topla(int sayi1, int sayi2)
         {
             return sayi1+ sayi2;
         }
+
+        public void topla2(int sayi1, int sayi2)
+        {
+            Console.WriteLine(sayi1 + sayi2);
+        } */
 
 
 
