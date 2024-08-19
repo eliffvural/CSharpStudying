@@ -11,7 +11,7 @@ namespace Collections
             Console.WriteLine("hello collections");
 
 
-            string[] nouns = new string[] { "emre", "elif", "hijjj" };
+            /*string[] nouns = new string[] { "emre", "elif", "hijjj" };
             Console.WriteLine(nouns[0]);
             Console.WriteLine(nouns[1]);
             Console.WriteLine(nouns[2]);
@@ -22,10 +22,13 @@ namespace Collections
             nouns = new string[5];
             nouns[4] = "minikk hijjj";
             Console.WriteLine(nouns[4]);
-            Console.WriteLine(nouns[0]);
+            Console.WriteLine(nouns[0]);*/
 
-            List<string> nouns2 = new List<string> { };
-
+            List<string> nouns2 = new List<string> { "emre", "elif", "hijjj"};
+            Console.WriteLine(nouns2[0]);
+            Console.WriteLine(nouns2[1]);
+            Console.WriteLine(nouns2[2]);
+            Console.WriteLine(nouns2[3]);
 
 
 
