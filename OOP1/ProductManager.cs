@@ -12,13 +12,13 @@ namespace OOP1
         //encapsulation
         public void Add(Product product)
         {
-
+            Console.WriteLine(product.ProductName + " added.");
         }
 
-        public void BiseyYap(int sayi)
+        /*public void BiseyYap(int sayi)
         {
             sayi = 99;
-        }
+        }*/
 
     }
 }
