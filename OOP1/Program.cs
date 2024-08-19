@@ -28,6 +28,7 @@ namespace OOP1
             Console.WriteLine(sayi);
 
             //int, double, bool ... deger tip
+            //diziler, class, abstract class, interface ... referans tip
 
 
         }
