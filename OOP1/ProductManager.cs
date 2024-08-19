@@ -15,6 +15,13 @@ namespace OOP1
             Console.WriteLine(product.ProductName + " added.");
         }
 
+
+        public void Update(Product product) {
+
+            Console.WriteLine(product.ProductName + " updated.");
+
+        }
+
         /*public void BiseyYap(int sayi)
         {
             sayi = 99;
